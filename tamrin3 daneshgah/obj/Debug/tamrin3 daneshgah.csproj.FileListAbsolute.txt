@@ -1,0 +1,7 @@
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\bin\Debug\tamrin3 daneshgah.exe.config
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\bin\Debug\tamrin3 daneshgah.exe
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\bin\Debug\tamrin3 daneshgah.pdb
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\obj\Debug\tamrin3 daneshgah.csproj.AssemblyReference.cache
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\obj\Debug\tamrin3 daneshgah.csproj.CoreCompileInputs.cache
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\obj\Debug\tamrin3 daneshgah.exe
+C:\Users\Mehrzad\source\repos\tamrin3 daneshgah\obj\Debug\tamrin3 daneshgah.pdb
